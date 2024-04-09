@@ -1,5 +1,5 @@
 import unittest
-from pipeline.hello import hello_function
+from pipeline-hyphen.hello import hello_function
 
 class HelloTest(unittest.TestCase):
     def test(self):
